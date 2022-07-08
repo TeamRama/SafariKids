@@ -6,7 +6,7 @@ Este proyecto se realizó utilizando javascript puro para hacer un CRUD, que con
 
 ## Demo 🧷
 
-[Proyecto Safari](https://upbeat-lalande-c5f44a.netlify.app/)
+[Proyecto Safari](https://safarikinds.netlify.app/)
 
 
 ## Este sitio ha sido construido con:
